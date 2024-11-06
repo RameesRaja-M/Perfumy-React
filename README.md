@@ -1,19 +1,20 @@
 Perfume Website - Home Page
-Description:
-This is a simple, elegant single-page perfume website designed to showcase a luxurious fragrance brand. Built with HTML, CSS, JavaScript, and React JS, this home page is visually captivating and fully responsive, offering a refined user experience across devices.
+A beautifully designed, single-page perfume website showcasing modern aesthetics and interactive elements, built with HTML, CSS, JavaScript, and React JS. This home page highlights key elements of a high-end perfume brand, including captivating visuals, smooth animations, and responsive design, providing an immersive experience for users.
 
-Features:
-
-Modern Design: A visually appealing layout with a focus on elegance and simplicity, tailored to reflect the essence of a premium perfume brand.
-React Components: Modular components for easy reusability and maintenance.
-Responsive Layout: Optimized for desktop, tablet, and mobile views.
-Smooth Animations: Subtle animations for an engaging browsing experience.
-Interactive Elements: JavaScript and React for dynamic content updates and interactivity.
-Tech Stack:
-
-HTML & CSS: Structure and styling of the website
-JavaScript: Added interactivity and dynamic functionality
-React JS: Built using functional components and React hooks
-Live Demo:
+Live Demo
 https://perfumy-react-rho-flame.vercel.app/
 
+Features
+Elegant Design: A modern and minimalist design, focusing on high-end visuals and an aesthetic layout.
+Responsive Layout: Fully responsive, adapting smoothly across devices (desktop, tablet, and mobile).
+React Components: Organized and reusable components in React JS, making code easy to maintain and extend.
+Smooth Animations: Subtle CSS animations for an enhanced user experience.
+Fast Loading: Optimized for speed, providing a seamless experience for users.
+Deployed on Vercel: Easily accessible and deployed for fast and reliable performance.
+
+Tech Stack
+HTML5: Structuring the content
+CSS3: Styling and animations
+JavaScript: Adding interactivity
+React JS: Component-based framework for building dynamic user interfaces
+Vercel: Deployment platform for fast, reliable hosting
